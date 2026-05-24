@@ -173,4 +173,9 @@
 0.0.0.0 cdn.mouseflow.com 
 0.0.0.0 cdn.mouseflow.com 
 0.0.0.0 cdn.mouseflow.com 
-0.0.0.0 careers.hotjar.com 0.0.0.0 0.0.0.0 
+0.0.0.0 careers.hotjar.com 
+0.0.0.0 rainmaker4.production-public.tubi.io
+0.0.0.0 ads.production-public.tubi.io
+0.0.0.0 analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
+0.0.0.0 api.us-east-1.aiv-delivery.net
+0.0.0.0	realtime-logger.production-public.tubi.io
